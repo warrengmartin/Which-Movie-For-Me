@@ -1,6 +1,6 @@
 # Which-Movie-For-Me
 
-This repository contains a Python implementation of a collaborative filtering model for movie recommendations, built using PyTorch.
+This repository contains a Python implementation of a collaborative filtering model for movie recommendations, built using PyTorch. This model is based on Jeremy Howards model on Kaggle: https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive
 
 ## Description
 
