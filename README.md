@@ -47,7 +47,4 @@ The code will download the dataset, train the model, save it, and then make pred
 
 ## Future Improvements
 
-* Explore different model architectures, such as matrix factorization or deep learning-based approaches.
-* Implement user-based or item-based collaborative filtering techniques.
-* Incorporate additional features like movie genres, release year, or user demographics to improve recommendations.
 * Deploy the model as a web application for interactive recommendations. 
